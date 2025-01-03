@@ -1,4 +1,3 @@
-# Weather-Analysis
 # Weather Analysis
 
 ## Objective
